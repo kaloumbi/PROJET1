@@ -1,0 +1,21 @@
+Nom Prénom Score
+DIATTA Ibou 1 022 pts
+NIANG Aly 963 pts
+MBAYE Saliou 877pts
+DIOUF Khady 875 pts 
+SOW Moussa 870 pts
+MBOUP Youssou 816 pts
+NIANG Djiby 816 pts
+DIENG Astou 800 pts
+SAMB Ibrahima 797 pts
+GUEYE Léna 763 pts
+BEYE Aminata 760 pts
+MANÉ Lamine 759pts
+MENDES Serges 730 pts
+NDECKY Estelle 723 pts
+DIALLO Moustapha 720 pts
+NDOUR Abba 716 pt
+
+ /* echo "<pre>";
+    var_dump($_SERVER);
+   echo "</pre>";  */
